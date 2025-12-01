@@ -1,0 +1,9 @@
+services:
+  loan:
+    build: .
+    container_name: loan-calculator
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./plan-data/plan.json:/app/data/plan.json
+    restart: unless-stopped

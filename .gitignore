@@ -1,0 +1,12 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+
+# Docker / Runtime
+plan-data/
+.env
+*.log
+
+# Sonstiges
+.idea/
+.vscode/
