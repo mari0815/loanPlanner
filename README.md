@@ -17,7 +17,7 @@ Eine vollständig selbstgehostete Web-App zur Berechnung und Verwaltung von Darl
 
 ```bash
 # 1. Repository klonen
-git clone https://github.com/<DEIN-NAME>/loan-calculator.git
+git clone https://github.com/mari0815/loan-calculator.git
 cd loan-calculator
 
 # 2. Persistente Daten-Ordner anlegen
