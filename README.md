@@ -84,6 +84,3 @@ Mit €20.000 Darlehen, 3% Zinsen, €350/Monat:
 - **Laufzeit:** ca. 61 Monate
 - **Gesamtkosten:** ca. €21.543
 
----
-
-**Von und für:** Selbsthosting-Enthusiasten 🐧✨
